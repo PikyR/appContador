@@ -1,0 +1,36 @@
+// COLORS
+
+// FONTS
+
+// SIZES
+$xsm: 1.4rem;
+$sm: 1.6rem;
+$md: 1.8rem;
+$lg: 2.2rem;
+$xlg: 2.6rem;
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 62.5%;
+}
+
+body {
+  font-size: $sm;
+  background-color: dimgray;
+}
+
+.mainContainer {
+  background-color: rgb(49, 52, 54);
+  width: 100%;
+  min-width: 320px;
+  height: 100vh;
+
+  padding-inline: 1.6rem;
+  padding-block-start: 1.6rem;
+}
+

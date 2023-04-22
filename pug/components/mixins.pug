@@ -1,0 +1,13 @@
+mixin contador(nLista, nombre)
+  section.contador
+    img.contador__img(src="../../assets/images/img.jpg", alt="-")
+    .contador__lista
+      p lista
+      p=nLista
+    .contador__nombre
+      p=nombre
+    .contador__num
+      p 0
+    .contador__botones
+      button.btn.btn-incrementar -
+      button.btn.btn-decrementar +

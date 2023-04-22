@@ -1,0 +1,40 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 62.5%;
+}
+
+body {
+  font-size: 1.6rem;
+  background-color: dimgray;
+}
+
+.mainContainer {
+  background-color: rgb(49, 52, 54);
+  width: 100%;
+  min-width: 320px;
+  height: 100vh;
+  padding-inline: 1.6rem;
+  padding-block-start: 1.6rem;
+}
+
+.contadores {
+  width: 100%;
+}
+
+.contador {
+  background-color: burlywood;
+  display: flex;
+  justify-content: space-between;
+  margin-block-end: 1.6rem;
+}
+.contador__img {
+  width: 7rem;
+  border-radius: 50%;
+}
+
+/*# sourceMappingURL=styles.css.map */
