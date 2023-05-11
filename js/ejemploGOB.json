@@ -1,0 +1,95 @@
+
+{
+  "version": "0.6",
+  "reqId": "0",
+  "status": "ok",
+  "sig": "2133735318",
+  "table": {
+    "cols": [
+      { "id": "A", "label": "", "type": "number", "pattern": "General" },
+      { "id": "B", "label": "", "type": "string" },
+      { "id": "C", "label": "", "type": "string" },
+      { "id": "D", "label": "", "type": "number", "pattern": "General" }
+    ],
+    "rows": [
+      {
+        "c": [
+          { "v": 210.0, "f": "210" },
+          { "v": "CAMINO A LA LEALTAD" },
+          { "v": "BURGOS, LUIS BENJAMIN" },
+          { "v": 23.0, "f": "23" }
+        ]
+      },
+      {
+        "c": [
+          { "v": 219.0, "f": "219" },
+          { "v": "NOS UNE EL CAMBIO" },
+          { "v": "CORIA VIGNOLO, JUAN IGNACIO" },
+          { "v": 23.0, "f": "23" }
+        ]
+      },
+      {
+        "c": [
+          { "v": 829.0, "f": "829" },
+          { "v": "POLITICA OBRERA" },
+          { "v": "GRASSINO, MARGARITA RAQUEL" },
+          { "v": 23.0, "f": "23" }
+        ]
+      },
+      {
+        "c": [
+          { "v": 830.0, "f": "830" },
+          { "v": "FRENTE DE TODOS POR TUCUMAN" },
+          { "v": "JALDO, OSVALDO FRANCISCO" },
+          { "v": 23.0, "f": "23" }
+        ]
+      },
+      {
+        "c": [
+          { "v": 831.0, "f": "831" },
+          { "v": "FRENTE \u0022JUNTOS POR EL CAMBIO\u0022" },
+          { "v": "SANCHEZ, ROBERTO ANTONIO" },
+          { "v": 23.0, "f": "23" }
+        ]
+      },
+      {
+        "c": [
+          { "v": 832.0, "f": "832" },
+          { "v": "FRENTE DE IZQUIERDA Y DE TRABAJADORES - UNI" },
+          { "v": "CORREA TEJERIZO, JOSE MARTIN" },
+          { "v": 23.0, "f": "23" }
+        ]
+      },
+      {
+        "c": [
+          { "v": 901.0, "f": "901" },
+          { "v": "FUERZA REPUBLICANA" },
+          { "v": "BUSSI, RICARDO ARGENTINO" },
+          { "v": 23.0, "f": "23" }
+        ]
+      },
+      {
+        "c": [
+          { "v": 929.0, "f": "929" },
+          { "v": "MOVIMIENTO LIBRES DEL SUR" },
+          { "v": "MASSO, FEDERICO AUGUSTO" },
+          { "v": 23.0, "f": "23" }
+        ]
+      },
+      { "c": [null, null, { "v": "TOTAL" }, { "v": 184.0, "f": "184" }] },
+      {
+        "c": [null, null, { "v": "VOTOS EN BLANCO" }, { "v": 23.0, "f": "23" }]
+      },
+      { "c": [null, null, { "v": "VOTOS NULOS" }, { "v": 23.0, "f": "23" }] },
+      {
+        "c": [null, null, { "v": "VOTOS RECURRIDOS" }, { "v": 23.0, "f": "23" }]
+      },
+      {
+        "c": [null, null, { "v": "VOTOS IMPUGNADOS" }, { "v": 23.0, "f": "23" }]
+      }
+    ],
+    "parsedNumHeaders": 0
+  }
+}
+
+

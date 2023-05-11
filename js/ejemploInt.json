@@ -1,0 +1,68 @@
+{
+  "version": "0.6",
+  "reqId": "0",
+  "status": "ok",
+  "sig": "234139574",
+  "table": {
+    "cols": [
+      { "id": "A", "label": "", "type": "number", "pattern": "General" },
+      { "id": "B", "label": "", "type": "string" },
+      { "id": "C", "label": "", "type": "string" },
+      { "id": "D", "label": "", "type": "number", "pattern": "General" }
+    ],
+    "rows": [
+      {
+        "c": [
+          { "v": 69.0, "f": "69" },
+          { "v": "PARTICIPACION CIVICA" },
+          { "v": "YAPURA ASTORGA, MANUEL JORGE" },
+          { "v": 1023.0, "f": "1023" }
+        ]
+      },
+      {
+        "c": [
+          { "v": 85.0, "f": "85" },
+          { "v": "CAMBIEMOS" },
+          { "v": "GUANCO, OSCAR SEBASTIAN" },
+          { "v": 2023.0, "f": "2023" }
+        ]
+      },
+      {
+        "c": [
+          { "v": 821.0, "f": "821" },
+          { "v": "TUCUMAN PARA LA VICTORIA" },
+          { "v": "SAAVEDRA, SONIA DEL CARMEN" },
+          { "v": 3023.0, "f": "3023" }
+        ]
+      },
+      {
+        "c": [
+          { "v": 830.0, "f": "830" },
+          { "v": "FRENTE DE TODOS POR TUCUMAN" },
+          { "v": "CALIVA, CRISTIAN FRANCISCO" },
+          { "v": 4023.0, "f": "4023" }
+        ]
+      },
+      {
+        "c": [
+          { "v": 831.0, "f": "831" },
+          { "v": "FRENTE \u0022JUNTOS POR EL CAMBIO\u0022" },
+          { "v": "PAZ, JOSE MANUEL" },
+          { "v": 5023.0, "f": "5023" }
+        ]
+      },
+      { "c": [null, null, { "v": "TOTAL" }, { "v": 15115.0, "f": "15115" }] },
+      {
+        "c": [null, null, { "v": "VOTOS EN BLANCO" }, { "v": 23.0, "f": "23" }]
+      },
+      { "c": [null, null, { "v": "VOTOS NULOS" }, { "v": 23.0, "f": "23" }] },
+      {
+        "c": [null, null, { "v": "VOTOS RECURRIDOS" }, { "v": 23.0, "f": "23" }]
+      },
+      {
+        "c": [null, null, { "v": "VOTOS IMPUGNADOS" }, { "v": 23.0, "f": "23" }]
+      }
+    ],
+    "parsedNumHeaders": 0
+  }
+}

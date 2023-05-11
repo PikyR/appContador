@@ -1,0 +1,180 @@
+{
+  "version": "0.6",
+  "reqId": "0",
+  "status": "ok",
+  "sig": "900373259",
+  "table": {
+    "cols": [
+      { "id": "A", "label": "", "type": "number", "pattern": "General" },
+      { "id": "B", "label": "", "type": "string" },
+      { "id": "C", "label": "", "type": "string" },
+      { "id": "D", "label": "", "type": "number", "pattern": "General" }
+    ],
+    "rows": [
+      {
+        "c": [
+          { "v": 3.0, "f": "3" },
+          { "v": "ACCION REGIONAL" },
+          { "v": "ALVAREZ, ROQUE TOBIAS" },
+          { "v": 1023.0, "f": "1023" }
+        ]
+      },
+      {
+        "c": [
+          { "v": 69.0, "f": "69" },
+          { "v": "PARTICIPACION CIVICA" },
+          { "v": "CARRIER, MARIO EMILIO" },
+          { "v": 2023.0, "f": "2023" }
+        ]
+      },
+      {
+        "c": [
+          { "v": 85.0, "f": "85" },
+          { "v": "CAMBIEMOS" },
+          { "v": "OCARANZA, LUIS RODOLFO NICOLAS" },
+          { "v": 3023.0, "f": "3023" }
+        ]
+      },
+      {
+        "c": [
+          { "v": 149.0, "f": "149" },
+          { "v": "CORRIENTE POPULAR" },
+          { "v": "RACEDO, REGINO RICARDO" },
+          { "v": 4023.0, "f": "4023" }
+        ]
+      },
+      {
+        "c": [
+          { "v": 162.0, "f": "162" },
+          { "v": "PARTIDO PROYECTO POPULAR" },
+          { "v": "CORDOBA, STELLA MARIS" },
+          { "v": 23.0, "f": "23" }
+        ]
+      },
+      {
+        "c": [
+          { "v": 255.0, "f": "255" },
+          { "v": "CIUDADANOS CONTRA LA CORRUPCION" },
+          { "v": "GARCIA, SERGIO ARIEL" },
+          { "v": 23.0, "f": "23" }
+        ]
+      },
+      {
+        "c": [
+          { "v": 267.0, "f": "267" },
+          { "v": "UNIDAD CIUDADANA" },
+          { "v": "CARRIZO, NILDA MABEL" },
+          { "v": 23.0, "f": "23" }
+        ]
+      },
+      {
+        "c": [
+          { "v": 493.0, "f": "493" },
+          { "v": "TUCUMAN INNOVADOR" },
+          { "v": "ORELLANA, JOSE FERNANDO" },
+          { "v": 23.0, "f": "23" }
+        ]
+      },
+      {
+        "c": [
+          { "v": 660.0, "f": "660" },
+          { "v": "MOVIMIENTO DE UNIDAD POPULAR (M.U.P.)" },
+          { "v": "ROMANO, LUIS ARIEL" },
+          { "v": 23.0, "f": "23" }
+        ]
+      },
+      {
+        "c": [
+          { "v": 818.0, "f": "818" },
+          { "v": "CREO" },
+          { "v": "MENDILAHARZU, INDIANA MARIA" },
+          { "v": 23.0, "f": "23" }
+        ]
+      },
+      {
+        "c": [
+          { "v": 821.0, "f": "821" },
+          { "v": "TUCUMAN PARA LA VICTORIA" },
+          { "v": "AMADO, REGINO NESTOR" },
+          { "v": 23.0, "f": "23" }
+        ]
+      },
+      {
+        "c": [
+          { "v": 825.0, "f": "825" },
+          { "v": "PROYECTO TUCUMAN" },
+          { "v": "NAJAR, CARLOS MANUEL" },
+          { "v": 23.0, "f": "23" }
+        ]
+      },
+      {
+        "c": [
+          { "v": 829.0, "f": "829" },
+          { "v": "POLITICA OBRERA" },
+          { "v": "TEVES, MARIO ISMAEL" },
+          { "v": 23.0, "f": "23" }
+        ]
+      },
+      {
+        "c": [
+          { "v": 830.0, "f": "830" },
+          { "v": "FRENTE DE TODOS POR TUCUMAN" },
+          { "v": "MANSILLA, SERGIO FRANCISCO" },
+          { "v": 23.0, "f": "23" }
+        ]
+      },
+      {
+        "c": [
+          { "v": 832.0, "f": "832" },
+          { "v": "FRENTE DE IZQUIERDA Y DE TRABAJADORES - UNI" },
+          { "v": "PALIZA, ANGEL JOSE" },
+          { "v": 23.0, "f": "23" }
+        ]
+      },
+      {
+        "c": [
+          { "v": 833.0, "f": "833" },
+          { "v": "ALIANZA \u0022COMPROMISO PRO TUCUMAN\u0022" },
+          { "v": "MACOME, JOSE IGNACIO" },
+          { "v": 23.0, "f": "23" }
+        ]
+      },
+      {
+        "c": [
+          { "v": 901.0, "f": "901" },
+          { "v": "FUERZA REPUBLICANA" },
+          { "v": "CASALI, MARIO CESAR" },
+          { "v": 23.0, "f": "23" }
+        ]
+      },
+      {
+        "c": [
+          { "v": 929.0, "f": "929" },
+          { "v": "MOVIMIENTO LIBRES DEL SUR" },
+          { "v": "MASSO, FRANCISCO AUGUSTO" },
+          { "v": 23.0, "f": "23" }
+        ]
+      },
+      {
+        "c": [
+          { "v": 966.0, "f": "966" },
+          { "v": "PARTIDO CAMBIA TUCUMAN CT" },
+          { "v": "CAMPERO, MARIANO" },
+          { "v": 23.0, "f": "23" }
+        ]
+      },
+      { "c": [null, null, { "v": "TOTAL" }, { "v": 10437.0, "f": "10437" }] },
+      {
+        "c": [null, null, { "v": "VOTOS EN BLANCO" }, { "v": 23.0, "f": "23" }]
+      },
+      { "c": [null, null, { "v": "VOTOS NULOS" }, { "v": 23.0, "f": "23" }] },
+      {
+        "c": [null, null, { "v": "VOTOS RECURRIDOS" }, { "v": 23.0, "f": "23" }]
+      },
+      {
+        "c": [null, null, { "v": "VOTOS IMPUGNADOS" }, { "v": 23.0, "f": "23" }]
+      }
+    ],
+    "parsedNumHeaders": 0
+  }
+}
